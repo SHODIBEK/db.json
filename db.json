@@ -1,0 +1,41 @@
+{
+    "social": [
+        {
+            "id": 1,
+            "url": "https://www.facebook.com/shodik.musaev",
+            "title": "facebook",
+            "icon": "fa-facebook-f"
+        },
+        {
+            "id": 2,
+            "url": "www.instagram.com/shodikmusaev/",
+            "title": "instagram",
+            "icon":  "fa-instagram"
+        },
+        {
+            "id": 3,
+            "url": "vk.com/shodik_musaev",
+            "title": "vk",
+            "icon":  "fa-vk"
+        },
+        {
+            "id": 4,
+            "url": "https://github.com/SHODIBEK",
+            "title": "Github",
+            "icon":  "fa-github"
+        },
+        {
+            "id": 5,
+            "url": "https://t.me/shodibek_musaev",
+            "title": "Telegram",
+            "icon":  "fa-telegram-plane"
+        }
+    ],
+    "heroSection": [
+        {
+            "title": "Hey there!<br>I'm  Shodibek Musayev<br/>Independent <span>Front-end developer</span>",
+            "subtitle": "<h4>I create websites</h4>",
+            "bgimage": "assets/img/1.jpg"
+        }
+    ]
+}
